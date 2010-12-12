@@ -2567,7 +2567,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "2.",
+					"text" : "0.",
 					"outlettype" : [ "" ],
 					"fontsize" : 12.0,
 					"patching_rect" : [ 581.0, 616.0, 32.5, 18.0 ],
@@ -2816,7 +2816,7 @@
 				"box" : 				{
 					"maxclass" : "gain~",
 					"outlettype" : [ "signal", "int" ],
-					"patching_rect" : [ 149.0, 278.0, 22.0, 122.0 ],
+					"patching_rect" : [ 150.0, 295.0, 22.0, 122.0 ],
 					"numinlets" : 2,
 					"id" : "obj-18",
 					"numoutlets" : 2,
@@ -3393,7 +3393,7 @@
 					"source" : [ "obj-82", 0 ],
 					"destination" : [ "obj-18", 0 ],
 					"hidden" : 0,
-					"midpoints" : [ 103.5, 272.5, 158.0, 272.5 ]
+					"midpoints" : [ 103.5, 272.5, 159.0, 272.5 ]
 				}
 
 			}
