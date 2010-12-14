@@ -199,7 +199,7 @@
 				"box" : 				{
 					"maxclass" : "flonum",
 					"id" : "obj-58",
-					"patching_rect" : [ 1352.0, 596.0, 50.0, 20.0 ],
+					"patching_rect" : [ 1315.0, 539.0, 50.0, 20.0 ],
 					"fontname" : "Arial",
 					"numinlets" : 1,
 					"numoutlets" : 2,
@@ -285,7 +285,7 @@
 					"outlettype" : [ "preset", "int", "preset", "int" ],
 					"preset_data" : [ 						{
 							"number" : 1,
-							"data" : [ 5, "obj-53", "toggle", "int", 0, 6, "obj-18", "gain~", "list", 117, 10.0, 5, "obj-1", "number~", "list", 0.0, 5, "obj-9", "flonum", "float", 17.0, 5, "obj-20", "flonum", "float", 56.0, 5, "obj-21", "flonum", "float", 0.7, 5, "obj-81", "flonum", "float", 176.0, 5, "obj-91", "toggle", "int", 1, 5, "obj-95", "flonum", "float", 0.25, 5, "obj-97", "toggle", "int", 1, 5, "obj-104", "flonum", "float", 0.2542, 6, "obj-110", "gain~", "list", 133, 10.0, 5, "obj-135", "slider", "float", 62.0, 5, "obj-134", "slider", "float", 40.0, 5, "obj-133", "slider", "float", 100.0, 5, "obj-132", "slider", "float", 55.0, 5, "obj-150", "slider", "float", 10.0, 5, "obj-149", "slider", "float", 20.0, 5, "obj-148", "slider", "float", 40.0, 5, "obj-147", "slider", "float", 10.0, 5, "obj-37", "flonum", "float", 111.0, 5, "obj-36", "flonum", "float", 190.0, 5, "obj-35", "flonum", "float", 0.7, 5, "obj-34", "flonum", "float", 499.0, 5, "obj-30", "flonum", "float", 0.0, 5, "obj-32", "flonum", "float", 0.31, 5, "obj-48", "flonum", "float", 0.14, 5, "obj-51", "number", "int", 1, 5, "obj-108", "flonum", "float", 20.0, 5, "obj-107", "flonum", "float", 101.0, 5, "obj-98", "flonum", "float", 0.127, 5, "obj-88", "flonum", "float", 213.0, 5, "obj-85", "flonum", "float", 0.0, 5, "obj-58", "flonum", "float", 0.7 ]
+							"data" : [ 5, "obj-53", "toggle", "int", 0, 6, "obj-18", "gain~", "list", 128, 10.0, 5, "obj-1", "number~", "list", 0.0, 5, "obj-9", "flonum", "float", 2.0, 5, "obj-20", "flonum", "float", 102.0, 5, "obj-21", "flonum", "float", 0.7, 5, "obj-81", "flonum", "float", 161.0, 5, "obj-91", "toggle", "int", 1, 5, "obj-95", "flonum", "float", 0.25, 5, "obj-97", "toggle", "int", 1, 5, "obj-104", "flonum", "float", 0.2542, 6, "obj-110", "gain~", "list", 133, 10.0, 5, "obj-135", "slider", "float", 62.0, 5, "obj-134", "slider", "float", 40.0, 5, "obj-133", "slider", "float", 100.0, 5, "obj-132", "slider", "float", 55.0, 5, "obj-150", "slider", "float", 10.0, 5, "obj-149", "slider", "float", 20.0, 5, "obj-148", "slider", "float", 40.0, 5, "obj-147", "slider", "float", 10.0, 5, "obj-37", "flonum", "float", 111.0, 5, "obj-36", "flonum", "float", 190.0, 5, "obj-35", "flonum", "float", 0.7, 5, "obj-34", "flonum", "float", 499.0, 5, "obj-30", "flonum", "float", 0.0, 5, "obj-32", "flonum", "float", 0.24, 5, "obj-48", "flonum", "float", 0.14, 5, "obj-51", "number", "int", 1, 5, "obj-108", "flonum", "float", 20.0, 5, "obj-107", "flonum", "float", 101.0, 5, "obj-98", "flonum", "float", 0.127, 5, "obj-88", "flonum", "float", 213.0, 5, "obj-85", "flonum", "float", 0.0, 5, "obj-58", "flonum", "float", 0.7 ]
 						}
  ]
 				}
@@ -3302,7 +3302,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "message",
-					"text" : "7.",
+					"text" : "2.",
 					"id" : "obj-16",
 					"patching_rect" : [ 483.0, 557.0, 32.5, 18.0 ],
 					"fontname" : "Arial",
