@@ -20,20 +20,6 @@
 		"devicewidth" : 0.0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"maxclass" : "newobj",
-					"text" : "peek~ buf",
-					"patching_rect" : [ 467.0, 449.0, 64.0, 20.0 ],
-					"numinlets" : 3,
-					"fontsize" : 12.0,
-					"numoutlets" : 1,
-					"outlettype" : [ "float" ],
-					"id" : "obj-33",
-					"fontname" : "Arial"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"maxclass" : "spectroscope~",
 					"patching_rect" : [ 37.0, 412.0, 300.0, 100.0 ],
 					"numinlets" : 2,
@@ -328,15 +314,6 @@
 				"patchline" : 				{
 					"source" : [ "obj-4", 0 ],
 					"destination" : [ "obj-30", 0 ],
-					"hidden" : 0,
-					"midpoints" : [  ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"source" : [ "obj-33", 0 ],
-					"destination" : [ "obj-25", 0 ],
 					"hidden" : 0,
 					"midpoints" : [  ]
 				}
